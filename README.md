@@ -1,10 +1,7 @@
 # 🎓 SAMS - Student Attendance Management System
 
 <p align="center">
-  <img src="images/Login.png" width="750"/>
-</p>
-
-<p align="center">
+                                    🎓
   <b>JavaFX + MySQL Desktop Application for Smart Attendance Management</b><br>
   🚀 Manage Students • Lecturers • Courses • Attendance in One System
 </p>
@@ -69,22 +66,22 @@ The system includes a **secure role-based login system** for Admin and Lecturer 
 ## 📸 System Screenshots
 
 ### 🔐 Login Screen
-<p align="center">
-  <img src="images/Login.png" width="650"/>
+<p>
+  <img src="image/Login.png" width="300"/>
 </p>
 
 ---
 
 ### 👨‍💼 Admin Dashboard
-<p align="center">
-  <img src="images/Admin.png" width="650"/>
+<p>
+  <img src="image/Admin.png" width="300"/>
 </p>
 
 ---
 
 ### 👨‍🏫 Lecturer Dashboard
-<p align="center">
-  <img src="images/Lecturer.png" width="650"/>
+<p>
+  <img src="image/Lecturer.png" width="300"/>
 </p>
 
 ---
