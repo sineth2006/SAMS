@@ -46,10 +46,10 @@ The system includes a **secure role-based login system** for Admin and Lecturer 
 
 ## 🔐 Login Credentials
 
-| Role      | Username | Password   |
-|-----------|----------|------------|
-| Admin     | admin    | admin123   |
-| Lecturer  | lecturer | lec123     |
+| Role      | Username  | Password   |
+|-----------|-----------|------------|
+| Admin     | admin     | admin123   |
+| Lecturer  | lecturer1 | lec123     |
 
 ---
 
